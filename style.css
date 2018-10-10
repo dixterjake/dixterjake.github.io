@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 	background-image: url(BG.jpg);
-	height: 100%;
+	height: auto;
 }
 .container{
 	border-radius: 5px;
